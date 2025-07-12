@@ -52,7 +52,7 @@ const botoes = document.querySelectorAll('.botoes button'); //Seleciona todos os
 const cores = {
     preto: '#121212',
     branco: '#ffffffff',
-    amarelo: '#d8cb55',
+    amarelo: 'yellow',
     verde: '#6bd855',
     azul: '#55a4d8',
     vermelho: '#d85555'
